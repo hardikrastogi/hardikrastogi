@@ -15,7 +15,7 @@ Lately that means AI-powered apps, real-time features and open-source tools othe
 | --- | --- | --- |
 | **Formora** | Open-source npm packages for JSON-first forms, with a live playground and a drag-and-drop visual builder. | [Live](https://formora-web.vercel.app) · [Code](https://github.com/hardikrastogi/formora) |
 | **DocSage** | AI RAG agent for PDFs — answers grounded in your documents, with inline source citations. | [Live](https://rag-doc-qa-project.vercel.app) · [Code](https://github.com/hardikrastogi/RAG-doc-qa-project) |
-| **Sphere** | An Instagram-inspired social platform with stories, real-time DMs and WebRTC video calling. | — |
+| **Sphere** | An Instagram-inspired social platform with stories, real-time DMs and WebRTC video calling. | [Live](https://sphere-nu-eight.vercel.app) · [Code](https://github.com/hardikrastogi/sphere) |
 | **Baxus** | A Chrome extension that finds the same whisky or wine bottle at a better price on the BAXUS marketplace. | — |
 
 More detail on how each one works is on my **[portfolio](https://hardikrastogi-portfolio.vercel.app)**.
